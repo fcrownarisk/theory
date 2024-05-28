@@ -1,3 +1,5 @@
+import lft
+import rgt
 type tree_i:
    def three():
       112 
@@ -10,6 +12,12 @@ type tree_ii:
       InventorySlot
 type tree_iii:
   def nine():
-     
+      Collatz
+      Letter
+      NP
 type tree_iiii:
   def twelve():
+     topology
+     worldsheet
+     EvaristeGalois
+
