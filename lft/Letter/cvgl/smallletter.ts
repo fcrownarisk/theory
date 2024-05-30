@@ -11,7 +11,7 @@
 
   const i = '.|'
   const j = '.|/'
-  const k = '|\/'
+  const k = '|/\'
   const l = '|'
 
   const m = '|-|-|'
