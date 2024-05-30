@@ -5,7 +5,7 @@ import './ZYX'
 import './mobius'
 import './penrose'
 import './Klein'
-import worldsheet
+import 'worldsheet'
 declare module X{}
 declare module Y{}
 declare module Z{}
