@@ -1,5 +1,4 @@
-
-import '../det/mobius'
+import '../mobius'
 import '../tree/tree_i'
 import '../tree/tree_ii'
 export function odd(){
