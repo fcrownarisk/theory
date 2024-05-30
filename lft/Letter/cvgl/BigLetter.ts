@@ -15,7 +15,7 @@
 
   const M = '|\/|'
   const N = '|\|'
-  const O= '|-_|'
+  const O = '|-_|'
   const P = '||\/'
 
   const Q = '-|_|\''
