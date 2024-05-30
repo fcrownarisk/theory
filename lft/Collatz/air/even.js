@@ -1,3 +1,4 @@
+import '../penrose'
 import '../tree/tree_iii'
 import '../tree/tree_iiii'
 export function even(){
