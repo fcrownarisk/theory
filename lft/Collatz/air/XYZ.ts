@@ -1,4 +1,3 @@
-import '../mobius'
 import './calculate/add'
 import './calculate/mulitply'
 import './calculate/pow'
