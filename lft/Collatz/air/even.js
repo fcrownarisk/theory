@@ -2,7 +2,7 @@ import '../penrose'
 import '../tree/tree_iii'
 import '../tree/tree_iiii'
 export function even(){
-    void function evenNumber(evenNumber){
+    void function evenNumber(even){
         if (evenNumber * 3 === 0) {
             evenNumber = evenNumber + 1;
         } else {
