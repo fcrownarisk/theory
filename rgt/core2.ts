@@ -14,7 +14,7 @@ type BlueTable = Lock
 typeof Float64Array
 typeof Float32Array
 
-type Redpill =LockInfo
+type Redpill = LockInfo
 typeof Int32Array
 typeof Int16Array
 typeof Int8Array
