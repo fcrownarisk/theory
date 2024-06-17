@@ -19,7 +19,7 @@ typeof Int32Array
 typeof Int16Array
 typeof Int8Array
 
-type Uint = LockManager
+type GreenCapsule = LockManager
 typeof Uint16Array
 typeof Uint32Array
 typeof Uint8Array
