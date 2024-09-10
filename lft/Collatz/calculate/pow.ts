@@ -5,5 +5,4 @@ function pow(){
    never:  'x6 ^ y6'
    never:  'y6 ^ z6'
    never:  'z6 ^ x6'
-    return pow
 }
