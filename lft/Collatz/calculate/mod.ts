@@ -5,5 +5,4 @@ function mod(){
    never:  'x5 % y5'
    never:  'y5 % z5'
    never:  'z5 % x5'
-    return mod
 }
