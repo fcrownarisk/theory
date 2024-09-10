@@ -5,5 +5,4 @@ function div(){
    never:  'x4 / y4'
    never:  'y4 / z4'
    never:  'z4 / x4'
-    return div
 }
