@@ -5,5 +5,4 @@ function multiply(){
     never: 'x3 * y3'
     never: 'y3 * z3'
     never: 'z3 * x3'
-    return multiply
 }
