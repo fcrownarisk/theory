@@ -1,5 +1,5 @@
 
-void function calculateDodecahedronEdges(radius: number): { vertices: [number, number, number][], edges: [number, number][] } {
+void function calculateDodecahedroVerticesAndEdges(radius: number): { vertices: [number, number, number][], edges: [number, number][] } {
     const phi = (1 + Math.sqrt(5)) / 2;
     const Radius = radius / Math.sqrt(3);
     const Length = 2 * radius / Math.sqrt(5);
